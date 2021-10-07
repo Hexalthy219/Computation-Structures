@@ -1,0 +1,4 @@
+.include beta.uasm
+
+SUBC(r1,1,r2)
+MUL(r2,r1,r1)
